@@ -22,7 +22,7 @@ export default function LandingPage() {
           <button className="px-8 py-3 bg-green-900 text-white rounded-md hover:bg-green-800 transition">
             Start free trial
           </button>
-          <button className="px-8 py-3 bg-amber-400 border border-gray-300 rounded-md hover:border-gray-400 hover:bg-amber-700 transition">
+          <button className="px-8 py-3 bg-pink-400 border border-gray-300 rounded-md hover:border-gray-400 hover:bg-pink-500 transition">
             View demo
           </button>
         </div>
@@ -89,7 +89,7 @@ export default function LandingPage() {
             Join thousands of teams shipping better software with less effort.
           </p>
 
-          <button className="mt-8 px-10 py-4 bg-purple-900 text-white rounded-md hover:bg-purple-800 transition">
+          <button className="mt-8 px-10 py-4 bg-pink-900 text-white rounded-md hover:bg-pink-800 transition">
             Get started for free
           </button>
 
