@@ -19,10 +19,10 @@ export default function LandingPage() {
         </p>
 
         <div className="mt-8 flex justify-center gap-4">
-          <button className="px-8 py-3 bg-gray-900 text-white rounded-md hover:bg-gray-800 transition">
+          <button className="px-8 py-3 bg-green-900 text-white rounded-md hover:bg-green-800 transition">
             Start free trial
           </button>
-          <button className="px-8 py-3 border border-gray-300 rounded-md hover:border-gray-400 transition">
+          <button className="px-8 py-3 bg-amber-400 border border-gray-300 rounded-md hover:border-gray-400 hover:bg-amber-700 transition">
             View demo
           </button>
         </div>
@@ -89,7 +89,7 @@ export default function LandingPage() {
             Join thousands of teams shipping better software with less effort.
           </p>
 
-          <button className="mt-8 px-10 py-4 bg-gray-900 text-white rounded-md hover:bg-gray-800 transition">
+          <button className="mt-8 px-10 py-4 bg-purple-900 text-white rounded-md hover:bg-purple-800 transition">
             Get started for free
           </button>
 
