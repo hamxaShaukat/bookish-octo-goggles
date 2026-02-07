@@ -17,16 +17,16 @@ export default function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
-            <a href="#" className="text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Home
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               About
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Services
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Contact
             </a>
           </div>
@@ -57,16 +57,16 @@ export default function Navbar() {
       {isOpen && (
         <div className="md:hidden border-t border-gray-200">
           <div className="space-y-1 px-4 py-3">
-            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Home
             </a>
-            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               About
             </a>
-            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Services
             </a>
-            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:scale-125 transition">
+            <a href="#" className="block text-gray-600 hover:text-gray-900 hover:rotate-12  transition">
               Contact
             </a>
           </div>
