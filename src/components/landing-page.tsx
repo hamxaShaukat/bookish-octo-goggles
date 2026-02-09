@@ -4,7 +4,7 @@ export default function LandingPage() {
   return (
     <div className="min-h-screen bg-white text-black">
       {/* NAVBAR */}
-      <nav className="flex items-center justify-between px-8 py-6 max-w-7xl mx-auto">
+      <nav className="flex items-center justify-between px-8 bg-pink-200 py-6 max-w-7xl mx-auto">
         <h1 className="text-xl font-bold">Brand.</h1>
 
         <div className="space-x-6 hidden md:flex">
@@ -31,7 +31,7 @@ export default function LandingPage() {
           </p>
 
           <div className="flex gap-4">
-            <button className="bg-black text-white px-6 py-3 hover:opacity-80 transition">
+            <button className="bg-amber-400 text-white px-6 py-3 hover:opacity-80 transition">
               Get Started
             </button>
             <button className="border border-black px-6 py-3 hover:bg-black hover:text-white transition">
